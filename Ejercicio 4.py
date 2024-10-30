@@ -1,3 +1,1 @@
-nombres = ["Agustina","Marisa","Juan","Osvaldo"]
-for n in nombres:
-		print(n)
+print(((3 + 2) / (2 * 5)) ** 2)
